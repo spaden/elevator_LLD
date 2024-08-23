@@ -1,4 +1,4 @@
-![1000001499.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/a4504163-b45e-4d2e-be24-1b01f4fea7e2/11097c4c-0e88-4ea4-8646-86f450a29392/1000001499.jpg)
+![1000001499.jpg](https://raw.githubusercontent.com/spaden/elevator_LLD/main/1000001499.jpg)
 
 - Each elevator object runs on its own thread, independent of each other.
 - When a thread enters the wait() state, it means it releases the lock.
